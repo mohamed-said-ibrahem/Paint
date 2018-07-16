@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Paint.ColorPanel" project="Paint" file="/Paint/src/Paint/ColorPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="162" x="249" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Paint.LineElement" project="Paint" file="/Paint/src/Paint/LineElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="293" x="1444" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Paint.DragShapeToolPanel" project="Paint" 
+    file="/Paint/src/Paint/DragShapeToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="195" x="-129" y="2401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Paint.BrushToolPanel.ButtonHandler" project="Paint" 
+    file="/Paint/src/Paint/BrushToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="106" y="2401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Paint.PencilToolPanel.SlideChangeListener" project="Paint" 
+    file="/Paint/src/Paint/PencilToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="216" x="-75" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Paint.ShapeTool" project="Paint" file="/Paint/src/Paint/ShapeTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="87" width="141" x="579" y="1624"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Paint.DragElement" project="Paint" file="/Paint/src/Paint/DragElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="177" width="296" x="1966" y="2401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Paint.PaintToolPanel" project="Paint" file="/Paint/src/Paint/PaintToolPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="266" x="225" y="720"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Paint.ToolButton" project="Paint" file="/Paint/src/Paint/ToolButton.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="223" x="225" y="1190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Paint.ToolOptionIcon" project="Paint" file="/Paint/src/Paint/ToolOptionIcon.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="206" x="578" y="2401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Paint.FillerTool" project="Paint" file="/Paint/src/Paint/FillerTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="184" x="760" y="1624"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Paint.Main" project="Paint" file="/Paint/src/Paint/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="106" width="130" x="829" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Paint.DragTool" project="Paint" file="/Paint/src/Paint/DragTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="267" width="201" x="1493" y="1624"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Paint.PencilToolPanel" project="Paint" 
+    file="/Paint/src/Paint/PencilToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="174" x="181" y="1624"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="Paint.ColorOptionBox" project="Paint" file="/Paint/src/Paint/ColorOptionBox.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="155" x="1700" y="1190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Paint.AbstractTool" project="Paint" file="/Paint/src/Paint/AbstractTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="394" width="214" x="1036" y="1190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="Paint.PaintApplication" project="Paint" 
+    file="/Paint/src/Paint/PaintApplication.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="205" x="829" y="412"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Paint.BrushTool" project="Paint" file="/Paint/src/Paint/BrushTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="210" x="2912" y="2401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="Paint.PaintElement" project="Paint" file="/Paint/src/Paint/PaintElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="357" width="265" x="2006" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="20" language="java" name="Paint.StrokeStyle" project="Paint" file="/Paint/src/Paint/StrokeStyle.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="340" width="232" x="805" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="21" language="java" name="Paint.StrokePanel" project="Paint" file="/Paint/src/Paint/StrokePanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="206" x="599" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Paint.PencilElement" project="Paint" file="/Paint/src/Paint/PencilElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="271" x="2410" y="2401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="Paint.PaintMenuBar" project="Paint" file="/Paint/src/Paint/PaintMenuBar.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="166" x="658" y="720"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="Paint.RectShapeToolPanel.ButtonListener" project="Paint" 
+    file="/Paint/src/Paint/RectShapeToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="-129" y="2999"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="Paint.EraserTool" project="Paint" file="/Paint/src/Paint/EraserTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="214" x="3478" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="Paint.RectangleElement" project="Paint" 
+    file="/Paint/src/Paint/RectangleElement.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="327" x="1077" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="Paint.SquareElement" project="Paint" file="/Paint/src/Paint/SquareElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="310" x="1777" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="Paint.RectangleToolPanel" project="Paint" 
+    file="/Paint/src/Paint/RectangleToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="189" x="134" y="2999"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="Paint.OvalElement" project="Paint" file="/Paint/src/Paint/OvalElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="294" x="2127" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="Paint.ToolOptionPanel" project="Paint" 
+    file="/Paint/src/Paint/ToolOptionPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="141" width="151" x="34" y="1190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="Paint.RectangleTool" project="Paint" file="/Paint/src/Paint/RectangleTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="162" x="1783" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="Paint.RoundRectTool" project="Paint" file="/Paint/src/Paint/RoundRectTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="168" x="1737" y="2401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="Paint.PaintMenuBar.ItemHandler" project="Paint" 
+    file="/Paint/src/Paint/PaintMenuBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="488" y="1190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="Paint.LineTool" project="Paint" file="/Paint/src/Paint/LineTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="200" x="1005" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="Paint.LineToolPanel" project="Paint" file="/Paint/src/Paint/LineToolPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="155" x="-129" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="Paint.BrushElement" project="Paint" file="/Paint/src/Paint/BrushElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="303" x="2810" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="Paint.CirculeTool" project="Paint" file="/Paint/src/Paint/CirculeTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="144" x="1245" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="Paint.BrushToolPanel" project="Paint" file="/Paint/src/Paint/BrushToolPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="165" x="181" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="Paint.RoundRectElement" project="Paint" 
+    file="/Paint/src/Paint/RoundRectElement.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="333" x="1077" y="2999"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="Paint.SquareToolPanel" project="Paint" 
+    file="/Paint/src/Paint/SquareToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="172" x="363" y="2999"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="Paint.SquareTool" project="Paint" file="/Paint/src/Paint/SquareTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="145" x="1429" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="Paint.FillerElement" project="Paint" file="/Paint/src/Paint/FillerElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="151" x="2721" y="2401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="Paint.CirculeElement" project="Paint" file="/Paint/src/Paint/CirculeElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="309" x="2461" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="Paint.CirculeToolPanel" project="Paint" 
+    file="/Paint/src/Paint/CirculeToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="171" x="575" y="2999"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="Paint.PaintTool" project="Paint" file="/Paint/src/Paint/PaintTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="123" width="187" x="1734" y="1624"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="Paint.EraserElement" project="Paint" file="/Paint/src/Paint/EraserElement.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="273" x="3144" y="2999"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="Paint.OvalTool" project="Paint" file="/Paint/src/Paint/OvalTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="129" x="1614" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="Paint.EraserToolPanel" project="Paint" 
+    file="/Paint/src/Paint/EraserToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="169" x="369" y="2401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="Paint.RectShapeToolPanel" project="Paint" 
+    file="/Paint/src/Paint/RectShapeToolPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="195" x="267" y="2619"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="Paint.DrawPanel" project="Paint" file="/Paint/src/Paint/DrawPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="403" x="996" y="720"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="51" language="java" name="Paint.Tool" project="Paint" file="/Paint/src/Paint/Tool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="340" width="144" x="395" y="1624"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="52" language="java" name="Paint.ColorPicker" project="Paint" file="/Paint/src/Paint/ColorPicker.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="206" x="1439" y="720"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="Paint.DrawPanel.MouseHandler" project="Paint" 
+    file="/Paint/src/Paint/DrawPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="224" x="751" y="1190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="Paint.ColorOptionBox.MouseHandler" project="Paint" 
+    file="/Paint/src/Paint/ColorOptionBox.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="218" x="1961" y="1624"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="Paint.PencilTool" project="Paint" file="/Paint/src/Paint/PencilTool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="187" x="2323" y="2004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="Paint.OvalToolPanel" project="Paint" file="/Paint/src/Paint/OvalToolPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="156" x="786" y="2999"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="58">    
+    <bendpoint x="814" y="2401"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="59" name="style">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="60" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="61">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="45"/>  
+  </generalization>  
+  <generalization id="64">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="65">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="66" name="element">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="67" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="68">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <generalization id="69">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <nesting id="70">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="71">    
+    <bendpoint x="1005" y="1190"/>    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="72" name="currentTool">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="73" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="75" name="colorPicker">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="76" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="52" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <bendpoint x="974" y="1624"/>    
+    <bendpoint x="974" y="2004"/>    
+    <bendpoint x="974" y="2401"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="78" name="strokeStyle">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="79" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="81" name="element">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="82" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="83">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="55"/>  
+  </generalization>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="85">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="86" name="drawPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="87" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="88">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <association id="89">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="90" name="handler">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="91" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="92">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="93">    
+    <bendpoint x="1975" y="2004"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="94" name="element">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="95" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="96">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="97">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="98" name="style">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="99" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="100">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <association id="101">    
+    <bendpoint x="1935" y="2401"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="102" name="strokeStyle">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="103" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="104">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="105" name="menuBar">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="106" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="107">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <generalization id="108">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <nesting id="109">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="54"/>  
+  </nesting>  
+  <generalization id="110">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="111">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="112" name="toolOptionPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="113" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="114">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <nesting id="115">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="53"/>  
+  </nesting>  
+  <generalization id="116">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="117">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <generalization id="118">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="119">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="120">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="121" name="paint">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="122" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="124" name="buttons">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="125" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="126">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="127">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="128" name="styleIcons">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="129" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="130">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <generalization id="131">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="132">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <association id="133">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="134" name="paintTools">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="135" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="136">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="137">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="138">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="139" name="tool">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="140" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="141">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="142">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="143" name="colorOptions">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="144" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="145">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="146">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="147">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="148" name="tool">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="149" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="150">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="151">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="152">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="153">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="154" name="tool">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="155" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="156">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="157">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="158" name="showStroke">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="159" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="160">    
+    <bendpoint x="835" y="2004"/>    
+    <bendpoint x="835" y="2401"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="161" name="strokeStyleList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="162" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="163">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="164">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <nesting id="165">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
